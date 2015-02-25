@@ -1,0 +1,9 @@
+{ "manifest_version": 2,
+  "name": "AudioVideo",
+  "version": "1.0.1",
+  "offline_enabled": true,
+  "description": "Play audio and video. Works on iOS and Android 2.3+.",
+  "icons": { "16": "nsb/images/16.png",
+               "128": "nsb/images/128.png" },
+  "author": "copyright 2012 ABC Company",
+  "app": {"background": {"scripts": ["background.js"]}}}
